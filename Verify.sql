@@ -1,0 +1,12 @@
+-- Task 2: Database Verification
+--
+-- Required database row counts:
+-- products = 31
+-- customers = 50
+-- orders = 500
+-- category_targets = 6
+--
+-- Order status counts:
+-- Cancelled = 42
+-- Delivered = 434
+-- Pending = 24
